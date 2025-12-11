@@ -1,0 +1,26 @@
+{
+  "short_name": "Nano Banana",
+  "name": "Nano Banana Editor",
+  "description": "AI-powered photo editor using Gemini Flash.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10095/10095216.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait",
+  "categories": ["photo", "productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "New Edit",
+      "url": ".",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/10095/10095216.png", "sizes": "512x512" }]
+    }
+  ]
+}
